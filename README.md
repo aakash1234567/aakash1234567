@@ -1,4 +1,6 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=240&section=header&text=Hi%20there%20👋&fontColor=d6ace6&fontSize=90)
+### 🛠️  Technologies & Tools
+___
 
 <!--
 **aakash1234567/aakash1234567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
