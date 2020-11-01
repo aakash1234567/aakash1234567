@@ -36,12 +36,12 @@ B.tech 4th year Electronics and Communication Engineering student. I have gained
 - Embedded Projects, Image and Video processing, VCS (Github), Sphinx, Flutter(For Android).  
 - Operating Systems: Windows 7/8/10.  
 
-<a href="https://github.com/aakash1234567" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakash1234567&layout=compact&count_private=true" />
+<a href="https://github.com/aakash1234567" >
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakash1234567&layout=compact&count_private=true" />
 </a>
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=aakash1234567&&show_icons=true&theme=radical&line_height=27&v=5&count_private=true" alt="Aakash's GitHub Stats" />
-
+<a href="https://github.com/aakash1234567/github-readme-stats">
+  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=aakash1234567&&show_icons=true&theme=radical&line_height=27&v=5&count_private=true" alt="Aakash's GitHub Stats" />
+</a>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/aakash1234567/count.svg" />
