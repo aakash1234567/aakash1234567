@@ -30,7 +30,7 @@ As a passionate developer, I have good background in agile methodologies, and I 
 - Core Team Member at [DSC Rtu,Kota](*.*)
 - Summer Intern at [e-Yantra](https://www.e-yantra.org/)
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools 🛠️
 - Programming Languages: Python, Javascript
 - Current Technologies/Frameworks: MERN, ionic, rich text editors (Quill, CKEditor, etc), Firebase
 - Past Technologies/Frameworks: flask/django(beginner), ML, Image and Video Processing, Vue electron, Selenium, Flutter(For Android).  
